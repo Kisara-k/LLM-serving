@@ -1,6 +1,6 @@
 # LLM Serving
 
-This project is a collection of Jupyter notebooks exploring different ways to serve Large Language Models (LLMs). This is primarily focused on interactive storytelling and character-driven roleplay chatbots. The goal is to compare different frameworks and deployment methods to optimize response times, scalability, and efficiency while maintaining a high-quality user experience. 
+This project is a collection of Jupyter notebooks exploring different ways to serve Large Language Models (LLMs), primarily focused on interactive storytelling and character-driven roleplay chatbots. The goal is to compare different frameworks and deployment methods to optimize response times, scalability, and efficiency while maintaining a high-quality user experience. 
 
 ### Contents  
 
@@ -40,7 +40,7 @@ This project is a collection of Jupyter notebooks exploring different ways to se
 - **Service Level Agreement (SLA):** Choose providers offering 99.9%+ uptime.
 - **Monitoring & Logging:** Real-time analytics to detect failures and optimize performance.
 
-**5. Security & Compliance**  
+**6. Security & Compliance**  
 - **Data Encryption:** Secure chat logs and user data.
 
 ### Getting Started  
