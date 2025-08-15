@@ -2,6 +2,10 @@
 
 This project is a collection of Jupyter notebooks exploring different ways to serve Large Language Models (LLMs), primarily focused on interactive storytelling and character-driven roleplay chatbots. The goal is to compare different frameworks and deployment methods to optimize response times, scalability, and efficiency while maintaining a high-quality user experience. 
 
+### FrontEnd
+
+The frontend for this project is developed at [epersonify-ai/epersonify_frontend_old](https://github.com/epersonify-ai/epersonify_frontend_old)
+
 ### Contents  
 
 - **Serving Methods:** 
@@ -9,8 +13,8 @@ This project is a collection of Jupyter notebooks exploring different ways to se
   - vLLM  
 
 - **Deployment Options:**  
-  - Kaggle or Colab Notebook
-  - RunPod Notebook
+  - RunPod
+  - Kaggle or Colab Notebook for Development
   - Converting to Docker containers for RunPod serverless deployment
   - Using pre-built docker images
  
